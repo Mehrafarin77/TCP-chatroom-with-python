@@ -1,0 +1,1 @@
+This is a command line chat room, which is based on Transmission Control Protocol (TCP). Here multiple users can connect and chat with each other, and since it follows TCP there will be no loss of data.
